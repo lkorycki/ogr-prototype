@@ -5,10 +5,10 @@ An application for recognizing manually drawn graphs (on a blackboard or a piece
 ### Requirements
 * Java 8
 * OpenCV 2.4.10 (for Windows in: *lib/opencv_win*)
-* Libraries given in *pom.xml*
+* Dependencies given in *pom.xml*
 
 ### Run
-Start the application from *main/java/ogr/Launcher*.
+Start the application from *main/java/ogr/Launcher.java*.
 
 ### Examples
 See how OGR works in *examples*.
