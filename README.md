@@ -1,6 +1,6 @@
 # Optical Graph Recognition (OGR) - Prototype
 
-An application for recognizing manually drawn graphs (on a blackboard or a piece of paper). It outputs the graphs in the JSON format.
+An application for recognizing manually drawn graphs (on a blackboard or piece of paper). It outputs the graphs in the JSON format.
 
 ### Install
 * Java 8
